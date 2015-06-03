@@ -27,9 +27,8 @@
   },
   "scripts": {
     "build": "webpack",
-    "start": "npm run build && open 'index.html'",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm run build && open 'index.html'"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Gerald Yeo",
+  "license": "MIT"
 }
